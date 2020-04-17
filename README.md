@@ -1,1 +1,4 @@
-# ECE110\n This is a repository storing all the relevant files for ECE110\n All the files are solely for learning purpose.
+# Rhetoric
+This is a repository for rhetoric learning purpose.
+
+You can find writing materials and writing for English literature reivew or rhetoric classes.
